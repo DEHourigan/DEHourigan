@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DEHourigan
-- 👀 I’m interested in bioinformatics, antimicrobial peptides etc.
-- 🌱 I’m currently learning bioinformatic discovery of amps and their ecological role in the microbiota
+- 👋  @DEHourigan
+- 👀 bioinformatics, antimicrobial peptides, microbiome
+- 🌱 bioinformatic discovery of bacteriocins and their ecological role in the microbiota
 - 📫 114402828@umail.ucc.ie
 
 <!---
